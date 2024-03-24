@@ -1,0 +1,1 @@
+Frontend layer for a movie art web app. FreeCodeCamp project to learn fullstack
